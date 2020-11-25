@@ -15,7 +15,8 @@ Legend
 ![started game](https://github.com/JStanislav/wxBuscaminas/blob/master/images/started%20game.PNG "game in progress")
 
 #### Game over!
-* X: Mine
+* X: Mine.
+
 ![game over](https://github.com/JStanislav/wxBuscaminas/blob/master/images/game%20over.PNG "game over")
 
 #### Finished game example
